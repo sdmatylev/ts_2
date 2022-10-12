@@ -54,7 +54,7 @@ def time_counter():
 
 
 file_name = "numbers.txt"
-symbol_count = 100000
+symbol_count = 900000
 file = get_generated_file(file_name, symbol_count)
 numbers = file_processing(file)
 
